@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React-JS/static/css/main.8c85e977.css",
+    "main.js": "/Portfolio-React-JS/static/js/main.d1a6f6e6.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio-React-JS/static/js/453.1407b060.chunk.js",
+    "static/media/portfolio-5.jpg": "/Portfolio-React-JS/static/media/portfolio-5.3260ae32312f5a35d3d1.jpg",
+    "static/media/portfolio-2.jpg": "/Portfolio-React-JS/static/media/portfolio-2.a57acc0933ce6272bca3.jpg",
+    "static/media/portfolio-3.jpg": "/Portfolio-React-JS/static/media/portfolio-3.6228b56ae6086df973a9.jpg",
+    "static/media/portfolio-4.jpg": "/Portfolio-React-JS/static/media/portfolio-4.2da9eed58834e5366e2a.jpg",
+    "static/media/LCC-Banner.png": "/Portfolio-React-JS/static/media/LCC-Banner.fc5c605c3abd2222dad5.png",
+    "static/media/LK.png": "/Portfolio-React-JS/static/media/LK.392b851b829d12d4845b.png",
+    "static/media/boxicons.svg": "/Portfolio-React-JS/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/portfolio-1.jpg": "/Portfolio-React-JS/static/media/portfolio-1.ff2ec8c0eb4425c101b4.jpg",
+    "static/media/boxicons.eot": "/Portfolio-React-JS/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/Portfolio-React-JS/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/Portfolio-React-JS/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/CodeBooter.png": "/Portfolio-React-JS/static/media/CodeBooter.5f76fa01a60c2ddbd5b9.png",
+    "static/media/profile.jpg": "/Portfolio-React-JS/static/media/profile.7adc8ad281de20d6c1ec.jpg",
+    "static/media/LCC-logo.png": "/Portfolio-React-JS/static/media/LCC-logo.d6e80c81caf1f745bf20.png",
+    "static/media/boxicons.woff2": "/Portfolio-React-JS/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/profile-img.png": "/Portfolio-React-JS/static/media/profile-img.97d9a2ae0a04f355fbe4.png",
+    "static/media/hero-bg.jpg": "/Portfolio-React-JS/static/media/hero-bg.4735f5a66fc95db6f112.jpg",
+    "index.html": "/Portfolio-React-JS/index.html",
+    "main.8c85e977.css.map": "/Portfolio-React-JS/static/css/main.8c85e977.css.map",
+    "main.d1a6f6e6.js.map": "/Portfolio-React-JS/static/js/main.d1a6f6e6.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio-React-JS/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c85e977.css",
+    "static/js/main.d1a6f6e6.js"
+  ]
+}
